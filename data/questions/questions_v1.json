@@ -1,0 +1,637 @@
+[
+    {
+        "id": "q001",
+        "question": "What new school structure does the policy propose to replace the 10+2 structure, and which ages does it cover?",
+        "expected_answer": "A 5+3+3+4 curricular and pedagogical structure covering ages 3-18.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 7,
+                "text": "5+3+3+4 covering ages 3-18"
+            }
+        ]
+    },
+    {
+        "id": "q002",
+        "question": "What are the four stages of the 5+3+3+4 design, with their grades and ages?",
+        "expected_answer": "Foundational (3 years of Anganwadi/pre-school + Grades 1-2, ages 3-8), Preparatory (Grades 3-5, ages 8-11), Middle (Grades 6-8, ages 11-14), Secondary (Grades 9-12, ages 14-18).",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 12,
+                "text": "Preparatory Stage (Grades 3-5, covering ages 8-11), Middle Stage (Grades 6-8, covering ages 11-14)"
+            }
+        ]
+    },
+    {
+        "id": "q003",
+        "question": "What percentage of a child's cumulative brain development occurs before the age of 6?",
+        "expected_answer": "Over 85%.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 8,
+                "text": "cumulative brain development occurs prior to the age of 6"
+            }
+        ]
+    },
+    {
+        "id": "q004",
+        "question": "By what year must universal quality early childhood care and education be achieved?",
+        "expected_answer": "As soon as possible, and no later than 2030.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 8,
+                "text": "no later than 2030, to ensure that all students entering Grade 1 are school ready"
+            }
+        ]
+    },
+    {
+        "id": "q005",
+        "question": "Who will develop the National Curricular and Pedagogical Framework for ECCE, and for which age group?",
+        "expected_answer": "NCERT will develop it for children up to the age of 8, in two parts: a sub-framework for 0-3 year-olds and one for 3-8 year-olds.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 8,
+                "text": "for children up to the age of 8 will be developed by NCERT in two parts"
+            }
+        ]
+    },
+    {
+        "id": "q006",
+        "question": "What training will Anganwadi workers with 10+2 qualifications versus lower qualifications receive?",
+        "expected_answer": "Those with 10+2 and above get a 6-month certificate programme in ECCE; those with lower qualifications get a one-year diploma programme.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 9,
+                "text": "6-month certificate programme in ECCE; and those with lower educational qualifications shall be given a one-year diploma programme"
+            }
+        ]
+    },
+    {
+        "id": "q007",
+        "question": "By when is universal foundational literacy and numeracy to be achieved in primary school?",
+        "expected_answer": "By 2025 (every student attaining it by Grade 3).",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 9,
+                "text": "universal foundational literacy and numeracy in primary school by 2025"
+            }
+        ]
+    },
+    {
+        "id": "q008",
+        "question": "Roughly how many elementary school students have not attained foundational literacy and numeracy?",
+        "expected_answer": "Over 5 crore.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 9,
+                "text": "estimated to be over 5 crore in number"
+            }
+        ]
+    },
+    {
+        "id": "q009",
+        "question": "What pupil-teacher ratio will be ensured at the level of each school, and what is the aim for areas with many disadvantaged students?",
+        "expected_answer": "Under 30:1 for each school; under 25:1 for areas with large numbers of socio-economically disadvantaged students.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 10,
+                "text": "PTR) of under 30:1 will be ensured at the level of each school"
+            }
+        ]
+    },
+    {
+        "id": "q010",
+        "question": "What were the Gross Enrolment Ratios for Grades 6-8, 9-10 and 11-12 cited in the policy?",
+        "expected_answer": "90.9% for Grades 6-8, 79.3% for Grades 9-10, and 56.5% for Grades 11-12.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 11,
+                "text": "The GER for Grades 6-8 was 90.9%, while for Grades 9-10 and 11-12 it was only 79.3% and 56.5%, respectively"
+            }
+        ]
+    },
+    {
+        "id": "q011",
+        "question": "How many out-of-school children aged 6 to 17 did the 2017-18 NSSO survey report?",
+        "expected_answer": "3.22 crore.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 11,
+                "text": "number of out of school children in the age group of 6 to 17 years is 3.22 crore"
+            }
+        ]
+    },
+    {
+        "id": "q012",
+        "question": "What Gross Enrolment Ratio goal is set for preschool to secondary level, and by when?",
+        "expected_answer": "100% GER in preschool to secondary level by 2030.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 11,
+                "text": "100% Gross Enrolment Ratio in preschool to secondary level by 2030"
+            }
+        ]
+    },
+    {
+        "id": "q013",
+        "question": "Until which grade should the medium of instruction be the home language or mother tongue?",
+        "expected_answer": "At least until Grade 5, but preferably till Grade 8 and beyond.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 14,
+                "text": "the medium of instruction until at least Grade 5, but preferably till Grade 8 and beyond"
+            }
+        ]
+    },
+    {
+        "id": "q014",
+        "question": "What condition applies to the three languages students learn under the three-language formula?",
+        "expected_answer": "The three languages are chosen by States, regions and students, so long as at least two of the three are native to India; no language is imposed on any State.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 15,
+                "text": "so long as at least two of the three languages are native to India"
+            }
+        ]
+    },
+    {
+        "id": "q015",
+        "question": "How long is the bagless period all students will take during Grades 6-8?",
+        "expected_answer": "10 days, during which they intern with local vocational experts.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 17,
+                "text": "All students will participate in a 10-day bagless period sometime during Grades 6-8"
+            }
+        ]
+    },
+    {
+        "id": "q016",
+        "question": "How many times in a school year will students be allowed to take Board Exams?",
+        "expected_answer": "Up to two occasions: one main examination and one for improvement.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 19,
+                "text": "allowed to take Board Exams on up to two occasions during any given school year"
+            }
+        ]
+    },
+    {
+        "id": "q017",
+        "question": "In which grades will all students take school examinations, apart from Board exams in Grades 10 and 12?",
+        "expected_answer": "Grades 3, 5 and 8.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 19,
+                "text": "all students will take school examinations in Grades 3, 5, and 8"
+            }
+        ]
+    },
+    {
+        "id": "q018",
+        "question": "What does PARAKH stand for?",
+        "expected_answer": "Performance Assessment, Review, and Analysis of Knowledge for Holistic Development - the proposed National Assessment Centre.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 20,
+                "text": "National Assessment Centre, PARAKH (Performance Assessment, Review, and Analysis of Knowledge for Holistic Development)"
+            }
+        ]
+    },
+    {
+        "id": "q019",
+        "question": "How many hours of continuous professional development is each teacher expected to complete every year?",
+        "expected_answer": "At least 50 hours.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 23,
+                "text": "Each teacher will be expected to participate in at least 50 hours of CPD"
+            }
+        ]
+    },
+    {
+        "id": "q020",
+        "question": "What will be the minimum degree qualification for teaching by 2030?",
+        "expected_answer": "A 4-year integrated B.Ed. degree.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 24,
+                "text": "By 2030, the minimum degree qualification for teaching will be a 4-year integrated B.Ed."
+            }
+        ]
+    },
+    {
+        "id": "q021",
+        "question": "What fund will the Government of India constitute for girls and transgender students?",
+        "expected_answer": "A 'Gender-Inclusion Fund'.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 27,
+                "text": "Gender-Inclusion Fund"
+            }
+        ]
+    },
+    {
+        "id": "q022",
+        "question": "What is a school complex as described in the policy?",
+        "expected_answer": "A grouping of one secondary school together with all other schools offering lower grades in its neighbourhood, including Anganwadis, within a radius of five to ten kilometers.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 30,
+                "text": "consisting of one secondary school together with all other schools offering lower grades in its neighbourhood including Anganwadis, in a radius of five to ten kilometers"
+            }
+        ]
+    },
+    {
+        "id": "q023",
+        "question": "What does SSSA stand for and what is its role?",
+        "expected_answer": "State School Standards Authority - an independent State-wide body that sets minimal standards (safety, security, infrastructure, teachers, financial probity, governance) for all schools.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 32,
+                "text": "State School Standards Authority (SSSA)"
+            }
+        ]
+    },
+    {
+        "id": "q024",
+        "question": "What higher education GER target does the policy set, and by when?",
+        "expected_answer": "Raise GER from 26.3% (2018) to 50% by 2035.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 36,
+                "text": "from 26.3% (2018) to 50% by 2035"
+            }
+        ]
+    },
+    {
+        "id": "q025",
+        "question": "Over how many years will the affiliated colleges system be phased out?",
+        "expected_answer": "Over a period of fifteen years, through graded autonomy.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 37,
+                "text": "over a period of fifteen years through a system of graded autonomy"
+            }
+        ]
+    },
+    {
+        "id": "q026",
+        "question": "How long is the undergraduate degree, and what exit certifications are offered?",
+        "expected_answer": "3 or 4 years (4-year preferred), with a certificate after 1 year, a diploma after 2 years, and a Bachelor's degree after 3 years.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 38,
+                "text": "The undergraduate degree will be of either 3 or 4-year duration, with multiple exit options"
+            }
+        ]
+    },
+    {
+        "id": "q027",
+        "question": "What is the Academic Bank of Credit?",
+        "expected_answer": "A system that digitally stores the academic credits earned from various recognized HEIs, so degrees can be awarded taking those credits into account.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 38,
+                "text": "An Academic Bank of Credit (ABC) shall be established which would digitally store"
+            }
+        ]
+    },
+    {
+        "id": "q028",
+        "question": "What happens to the M.Phil. programme under the policy?",
+        "expected_answer": "It will be discontinued.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "easy",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 39,
+                "text": "The M.Phil. programme shall be discontinued"
+            }
+        ]
+    },
+    {
+        "id": "q029",
+        "question": "What does the policy propose to rename the Ministry of Human Resource Development?",
+        "expected_answer": "Ministry of Education (MoE).",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 61,
+                "text": "be re-designated as the Ministry of Education (MoE)"
+            }
+        ]
+    },
+    {
+        "id": "q030",
+        "question": "What is the National Educational Technology Forum (NETF)?",
+        "expected_answer": "An autonomous body to be created as a platform for exchanging ideas on using technology to enhance learning, assessment, planning and administration in school and higher education.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 57,
+                "text": "An autonomous body, the National Educational Technology Forum (NETF), will be created"
+            }
+        ]
+    },
+    {
+        "id": "q031",
+        "question": "What decade will the entire policy be in operational mode, after which another comprehensive review is planned?",
+        "expected_answer": "2030-40.",
+        "answerable": true,
+        "type": "fact",
+        "difficulty": "hard",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 63,
+                "text": "In the decade of 2030-40, the entire policy will be in an operational mode"
+            }
+        ]
+    },
+    {
+        "id": "q032",
+        "question": "What are the four verticals of the Higher Education Commission of India (HECI) and the function of each?",
+        "expected_answer": "NHERC (regulation), NAC (accreditation), HEGC (funding), and GEC (academic standard setting / learning outcomes).",
+        "answerable": true,
+        "type": "multi_hop",
+        "difficulty": "hard",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 48,
+                "text": "These four structures will be set up as four independent verticals within one umbrella institution, the Higher Education Commission of India (HECI)"
+            },
+            {
+                "page": 48,
+                "text": "The third vertical of HECI will be the Higher Education Grants Council (HEGC)"
+            }
+        ]
+    },
+    {
+        "id": "q033",
+        "question": "By which year does the policy target 100% GER from preschool to secondary, and by which year 50% GER in higher education?",
+        "expected_answer": "100% GER in preschool to secondary by 2030; 50% GER in higher education by 2035.",
+        "answerable": true,
+        "type": "multi_hop",
+        "difficulty": "hard",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 11,
+                "text": "100% Gross Enrolment Ratio in preschool to secondary level by 2030"
+            },
+            {
+                "page": 36,
+                "text": "from 26.3% (2018) to 50% by 2035"
+            }
+        ]
+    },
+    {
+        "id": "q034",
+        "question": "What is current public spending on education as a share of GDP versus the policy's target?",
+        "expected_answer": "Current public spending is around 4.43% of GDP; the target is 6% of GDP at the earliest.",
+        "answerable": true,
+        "type": "multi_hop",
+        "difficulty": "hard",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 61,
+                "text": "around 4.43% of GDP"
+            },
+            {
+                "page": 62,
+                "text": "to reach 6% of GDP at the earliest"
+            }
+        ]
+    },
+    {
+        "id": "q035",
+        "question": "Which body develops the National Professional Standards for Teachers, by when, and when will they be reviewed?",
+        "expected_answer": "The National Council for Teacher Education (as a Professional Standard Setting Body under the GEC) will develop them by 2022; they will be reviewed and revised in 2030 and every ten years after.",
+        "answerable": true,
+        "type": "multi_hop",
+        "difficulty": "hard",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 23,
+                "text": "A common guiding set of National Professional Standards for Teachers (NPST) will be developed by 2022, by the National Council for Teacher Education"
+            },
+            {
+                "page": 24,
+                "text": "The professional standards will be reviewed and revised in 2030"
+            }
+        ]
+    },
+    {
+        "id": "q036",
+        "question": "Which bodies formulate the new curriculum frameworks for school education and teacher education, and what are their named years?",
+        "expected_answer": "NCERT formulates NCFSE 2020-21 for school education; NCTE formulates NCFTE 2021 for teacher education.",
+        "answerable": true,
+        "type": "multi_hop",
+        "difficulty": "hard",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 18,
+                "text": "NCFSE 2020-21, will be undertaken by the NCERT"
+            },
+            {
+                "page": 25,
+                "text": "NCFTE 2021, will be formulated by the NCTE"
+            }
+        ]
+    },
+    {
+        "id": "q037",
+        "question": "How does India's research and innovation investment compare with the US, Israel and South Korea?",
+        "expected_answer": "India invests only 0.69% of GDP, versus 2.8% in the US, 4.3% in Israel and 4.2% in South Korea.",
+        "answerable": true,
+        "type": "multi_hop",
+        "difficulty": "hard",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": [
+            {
+                "page": 46,
+                "text": "only 0.69% of GDP as compared to 2.8% in the United States of America, 4.3% in Israel and 4.2% in South Korea"
+            }
+        ]
+    },
+    {
+        "id": "q038",
+        "question": "What is the total rupee amount the government has allocated to implement the National Education Policy 2020?",
+        "expected_answer": "Not stated in the document.",
+        "answerable": false,
+        "type": "unanswerable",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": []
+    },
+    {
+        "id": "q039",
+        "question": "On what date did the Union Cabinet approve the National Education Policy 2020?",
+        "expected_answer": "Not stated in the document.",
+        "answerable": false,
+        "type": "unanswerable",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": []
+    },
+    {
+        "id": "q040",
+        "question": "How many new IITs and IIMs will be established under this policy?",
+        "expected_answer": "Not stated in the document.",
+        "answerable": false,
+        "type": "unanswerable",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": []
+    },
+    {
+        "id": "q041",
+        "question": "What is the minimum monthly salary for teachers under the policy?",
+        "expected_answer": "Not stated in the document.",
+        "answerable": false,
+        "type": "unanswerable",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": []
+    },
+    {
+        "id": "q042",
+        "question": "What stipend will students receive during the 10-day bagless internship?",
+        "expected_answer": "Not stated in the document.",
+        "answerable": false,
+        "type": "unanswerable",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": []
+    },
+    {
+        "id": "q043",
+        "question": "What is the policy's stance on the NEET entrance examination?",
+        "expected_answer": "Not stated in the document.",
+        "answerable": false,
+        "type": "unanswerable",
+        "difficulty": "medium",
+        "source_doc": "NEP_Final_English_0.pdf",
+        "evidence": []
+    }
+]
