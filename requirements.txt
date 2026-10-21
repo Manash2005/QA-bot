@@ -2,3 +2,5 @@ langchain-community
 pypdf
 langchain-text-splitters
 langchain_core
+langchain-openrouter
+dotenv
